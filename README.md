@@ -11,6 +11,20 @@ digit images — no other machine learning framework required. Advanced ideas in
 way (derivatives, gradients, the chain rule, softmax, cross-entropy loss) are each explained in
 plain English before any formula, so no prior calculus background is assumed.
 
+**Part of a series** on machine learning fundamentals, each solving a related problem at a
+different level of the stack:
+
+1. **NumPy_Fundamentals** (this notebook) — build a neural network from scratch using nothing but NumPy
+2. **[Scikit_Learn_Guide](https://github.com/tjsuk/Scikit_Learn_Guide)** — the same handwritten-digit
+   dataset, solved with scikit-learn's toolkit (including its own `MLPClassifier`)
+3. **[HandwrittenTensorflow](https://github.com/tjsuk/HandwrittenTensorflow)** — a full digit-recognition
+   project built with TensorFlow/Keras
+4. **[HandwrittenPyTorch](https://github.com/tjsuk/HandwrittenPyTorch)** — the same digit-recognition
+   project built with PyTorch
+
+They're independent and don't require reading in order, but each links back to the others where
+the connection is most relevant.
+
 ## What's inside
 
 1. **Import NumPy** and see how it differs from plain Python
@@ -115,8 +129,10 @@ downloaded — the notebook works fully offline.
 - Experiment with the learning rate in Step 11e, and watch how the loss curve changes
 - Split training into mini-batches instead of using the whole training set on every step, and
   compare training speed and stability
-- Rebuild the same softmax regression model using a real framework (TensorFlow/Keras or PyTorch),
-  and compare it directly against the from-scratch NumPy version in this notebook
+- Rebuild the same softmax regression model using a real framework
+  ([TensorFlow/Keras](https://github.com/tjsuk/HandwrittenTensorflow) or
+  [PyTorch](https://github.com/tjsuk/HandwrittenPyTorch)), and compare it directly against the
+  from-scratch NumPy version in this notebook
 
 Each of these has a detailed, step-by-step walkthrough with full explanations and runnable code
 in [`ideas_to_extend/`](ideas_to_extend/README.md).
