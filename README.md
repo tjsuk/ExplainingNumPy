@@ -34,7 +34,8 @@ plain English before any formula, so no prior calculus background is assumed.
 It finishes with a **Summary** recapping the whole notebook and a glossary of key terms
 (vectorisation, broadcasting, dot product, gradient, gradient descent, softmax, cross-entropy,
 learning rate, chain rule), plus **Ideas to extend** — adding a hidden layer, trying the
-full-resolution MNIST dataset, experimenting with learning rates and mini-batches.
+full-resolution MNIST dataset, experimenting with learning rates and mini-batches, and comparing
+against a real deep learning framework.
 
 ## Requirements
 
@@ -111,7 +112,11 @@ downloaded — the notebook works fully offline.
   small neural network
 - Try the full-resolution, 70,000-image MNIST dataset instead (e.g. via
   `sklearn.datasets.fetch_openml('mnist_784')`), and compare accuracy and training time
-- Experiment with the learning rate and batch size in Step 11e, and watch how the loss curve
-  changes
+- Experiment with the learning rate in Step 11e, and watch how the loss curve changes
+- Split training into mini-batches instead of using the whole training set on every step, and
+  compare training speed and stability
 - Rebuild the same softmax regression model using a real framework (TensorFlow/Keras or PyTorch),
   and compare it directly against the from-scratch NumPy version in this notebook
+
+Each of these has a detailed, step-by-step walkthrough with full explanations and runnable code
+in [`ideas_to_extend/`](ideas_to_extend/README.md).
