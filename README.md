@@ -146,3 +146,11 @@ downloaded — the notebook works fully offline.
 
 Each of these has a detailed, step-by-step walkthrough with full explanations and runnable code
 in [`ideas_to_extend/`](ideas_to_extend/README.md).
+
+## License
+
+The code in this repository (notebook code cells, scripts and `requirements.txt`) is released under the [MIT License](LICENSE).
+
+The written content (explanations, exercises, Markdown files and study guide documents) is licensed under [CC BY-NC 4.0](LICENSE-CONTENT.md): you may share and adapt it for non-commercial use with credit, but not sell it or use it in paid courses or products.
+
+Copyright © 2026 Trevor Smith.
