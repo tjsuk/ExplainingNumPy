@@ -1,21 +1,62 @@
-MIT License
+NumPy Fundamentals: From Python Lists to Neural Networks - Personal Use License
 
-Copyright (c) 2026 Trevor Smith
+Copyright (c) 2026 Trevor Smith. All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This software and its source code, documentation and associated files (the
+"Software") are owned by Trevor Smith (the "Author"). The Software is licensed,
+not sold. Any rights not expressly granted below are reserved by the Author.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. PERMITTED USE
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+   Subject to the conditions of this license, the Author grants you a
+   personal, non-exclusive, non-transferable, revocable license to:
+
+   a) download the Software from the Author's official repository;
+   b) install and use the Software on devices you own or control, for
+      personal use or in the course of your own work; and
+   c) modify the Software for your own private use, provided the modified
+      version is not shared with anyone else.
+
+2. RESTRICTIONS
+
+   You may not, in whole or in part, and whether modified or unmodified:
+
+   a) copy, share, distribute, publish, upload, mirror or otherwise make the
+      Software available to any other person or organisation, except by
+      directing them to the Author's official repository;
+   b) sell, rent, lease, license, sublicense or otherwise transfer the
+      Software, or charge for any product or service whose value derives
+      entirely or substantially from the Software (including hosting,
+      support or consulting services);
+   c) remove, alter or obscure any copyright notice, license notice or
+      authorship credit contained in the Software; or
+   d) claim, state or imply that you are the author or owner of the Software
+      or of any work derived from it.
+
+3. OWNERSHIP
+
+   The Software, including any modifications you make to it, remains the
+   intellectual property of the Author. This license does not transfer any
+   ownership rights to you.
+
+4. TERMINATION
+
+   This license ends automatically if you breach any of its terms. On
+   termination you must stop using the Software and delete all copies,
+   including modified versions, in your possession or control.
+
+5. NO WARRANTY
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+6. LIMITATION OF LIABILITY
+
+   IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+   FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+   DEALINGS IN THE SOFTWARE.
+
+For permission to use the Software in any way not covered by this license,
+contact the Author.
